@@ -6,13 +6,13 @@ sub_affordances:
   diversity: "Multiple potentials, for example diverse or heterogeneous content."
   cross_contacts: "Colliding potentials, for example different domains, genres, or users meeting in one environment."
   incompleteness: "Unfinalizable potentials, for example broad, ambiguous, or evolving categories."
-  accessibility: "Access to a specific spot or item."
-  multi_reachability: "Multiple routes between spots or items."
-  explorability: "Invitations to go somewhere else or follow a divergent path."
-  slowability: "Affording a slower pace of inspection, reflection, or browsing."
-  exposure: "Highlighting broader or longer-lasting cues."
-  contrast: "Highlighting sharper or more sudden cues."
-  pointers: "Narrow, specific cues such as signs, labels, prompts, or headings."
+  accessibility: "Access to a specific spot or item, convergently, for example homepage access."
+  multi_reachability: "Multiple routes between spots or items, for example, multi-list interfaces."
+  explorability: "Invitations to go somewhere else or follow a divergent path, for example, non-grid layouts."
+  slowability: "Affording a slower pace of inspection, reflection, or browsing, for example, obstacles or queues."
+  exposure: "Highlighting broader or longer-lasting cues, for example, exposure of book covers."
+  contrast: "Highlighting sharper or more sudden cues, for example, contrasting backgrounds."
+  pointers: "Narrow, specific cues such as signs, labels, prompts, or headings, for example, banners."
 
 categories:
   content:
