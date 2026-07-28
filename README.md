@@ -2,38 +2,15 @@
 
 This repository accompanies the paper [Serendipity in Recommender Systems Beyond the Algorithm: A Feature Repository and Experimental Design](https://pure.itu.dk/ws/portalfiles/portal/98207011/paper4.pdf).
 
-It catalogs affordance features that may help recommender systems support serendipitous encounters. The repository follows the paper's three-part structure:
+It catalogs affordance features that may help recommender systems support serendipitous encounters. The repository follows the paper's categorization, identifying three main categories:
 
-- [Content](features/content/): item data, metadata, controlled vocabularies, user-generated content, and multimedia.
-- [User interface](features/user-interface/): visible or audible presentation choices that influence what users notice, inspect, and follow.
-- [Information access](features/information-access/): recommendation, search, and browsing mechanisms that shape how users reach items.
+- [Content](features/content/): features relating to the content, e.g., core metadata, controlled vocabularies, user-generated content, and multimedia.
+- [User interface](features/user-interface/): visible or audible presentation choices that influence what users notice, inspect, and follow, e.g., global navigation, presentation structure, headers and explanations. 
+- [Information access](features/information-access/): recommendation, search, and browsing mechanisms that shape how users reach items, e.g., search engines, auto-completion, hyperlinks and breadcrumbs. 
 
-The feature pages are intended to be practical research objects: each page gives a short definition, the relevant serendipity sub-affordances, implementation notes, and linked example snippets.
+Each folder provides detailed information on the features, detailing what category they belong to, what affordance of serendipity they allow, an explanation of why they may support serendipity, some design considerations and relevant examples. 
 
-## Repository Map
-
-```text
-.
-|-- assets/
-|   `-- snippets/                 # Screenshot snippets named by source and feature mapping
-|-- data/
-|   `-- taxonomy.yml              # Machine-readable version of the feature taxonomy
-|-- docs/
-|   |-- FEATURE_TEMPLATE.md
-|   `-- REPOSITORY_PLAN.md
-|-- features/
-|   |-- content/
-|   |-- user-interface/
-|   `-- information-access/
-|       |-- recommendation/
-|       |-- search/
-|       `-- browsing/
-|-- CONTRIBUTING.md
-|-- LICENSE
-`-- README.md
-```
-
-## Feature Index
+## Index
 
 ### Content
 
@@ -74,13 +51,30 @@ The feature pages are intended to be practical research objects: each page gives
 | B3 | Collections | [features/information-access/browsing/b3-collections.md](features/information-access/browsing/b3-collections.md) |
 | B4 | User profiles | [features/information-access/browsing/b4-user-profiles.md](features/information-access/browsing/b4-user-profiles.md) |
 
+
 ## How To Use This Repository
 
-- Use the feature pages to identify candidate design manipulations for a recommender-system study.
+- Use the feature pages to identify candidate design manipulations for a recommender system study.
 - Use `data/taxonomy.yml` when you need a structured source for scripts, website generation, or cross-repository reuse.
 - Add example screenshots to `assets/snippets/`, using the source-plus-feature naming pattern, and list them on the relevant feature page.
 - Keep examples grounded in observable interface features, not inferred algorithmic behavior unless the source explicitly documents it.
 
-## Source
+## Repository Map
 
-The taxonomy and descriptions are based on Section 3 and Table 2 of the accompanying paper. The paper frames serendipity as a user experience shaped by content, interface, and information-access features, not only by recommendation algorithms.
+```text
+.
+|-- assets/
+|   `-- snippets/                 # Screenshot snippets named by source and feature mapping
+|-- data/
+|   `-- taxonomy.yml              # Machine-readable version of the feature taxonomy
+|-- features/
+|   |-- content/
+|   |-- user-interface/
+|   `-- information-access/
+|       |-- recommendation/
+|       |-- search/
+|       `-- browsing/
+|-- CONTRIBUTING.md
+|-- LICENSE
+`-- README.md
+```
