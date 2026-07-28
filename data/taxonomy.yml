@@ -1,0 +1,126 @@
+source:
+  title: "Serendipity in Recommender Systems Beyond the Algorithm: A Feature Repository and Experimental Design"
+  url: "https://pure.itu.dk/ws/portalfiles/portal/98207011/paper4.pdf"
+  basis: "Section 3 and Table 2"
+
+sub_affordances:
+  diversity: "Multiple potentials, for example diverse or heterogeneous content."
+  cross_contacts: "Colliding potentials, for example different domains, genres, or users meeting in one environment."
+  incompleteness: "Unfinalizable potentials, for example broad, ambiguous, or evolving categories."
+  accessibility: "Access to a specific spot or item."
+  multi_reachability: "Multiple routes between spots or items."
+  explorability: "Invitations to go somewhere else or follow a divergent path."
+  slowability: "Affording a slower pace of inspection, reflection, or browsing."
+  exposure: "Highlighting broader or longer-lasting cues."
+  contrast: "Highlighting sharper or more sudden cues."
+  pointers: "Narrow, specific cues such as signs, labels, prompts, or headings."
+
+categories:
+  content:
+    description: "Features related to item data and knowledge representation."
+    features:
+      - code: C1
+        name: Core metadata
+        affordances: [diversity]
+        path: features/content/c1-core-metadata.md
+      - code: C2
+        name: Controlled vocabulary
+        affordances: [diversity, incompleteness]
+        path: features/content/c2-controlled-vocabulary.md
+      - code: C3
+        name: User-generated content
+        affordances: [diversity, cross_contacts, incompleteness, multi_reachability]
+        path: features/content/c3-user-generated-content.md
+      - code: C4
+        name: Multimedia
+        affordances: [diversity]
+        path: features/content/c4-multimedia.md
+  user_interface:
+    description: "Features related to how items, cues, and routes are presented to users."
+    features:
+      - code: U1
+        name: Metadata
+        affordances: [slowability]
+        path: features/user-interface/u1-metadata.md
+      - code: U2
+        name: User-generated content
+        affordances: [slowability, multi_reachability]
+        path: features/user-interface/u2-user-generated-content.md
+      - code: U3
+        name: Multimedia
+        affordances: [contrast]
+        path: features/user-interface/u3-multimedia.md
+      - code: U4
+        name: Global navigation
+        affordances: [accessibility, exposure, pointers]
+        path: features/user-interface/u4-global-navigation.md
+      - code: U5
+        name: Presentation structure
+        affordances: [cross_contacts, explorability]
+        path: features/user-interface/u5-presentation-structure.md
+      - code: U6
+        name: Headers
+        affordances: [pointers]
+        path: features/user-interface/u6-headers.md
+      - code: U7
+        name: Explanations
+        affordances: [explorability, pointers]
+        path: features/user-interface/u7-explanations.md
+      - code: U8
+        name: Emphasis
+        affordances: [exposure, contrast]
+        path: features/user-interface/u8-emphasis.md
+      - code: U9
+        name: Pop-up
+        affordances: [slowability, exposure, contrast]
+        path: features/user-interface/u9-pop-up.md
+  information_access:
+    description: "Features related to how users reach items through recommendation, search, and browsing."
+    groups:
+      recommendation:
+        - code: R1
+          name: Personalized
+          affordances: [accessibility, pointers]
+          path: features/information-access/recommendation/r1-personalized.md
+        - code: R2
+          name: Non-personalized
+          affordances: [cross_contacts, accessibility, pointers]
+          path: features/information-access/recommendation/r2-non-personalized.md
+        - code: R3
+          name: Curated
+          affordances: [cross_contacts, pointers]
+          path: features/information-access/recommendation/r3-curated.md
+        - code: R4
+          name: Item-to-item
+          affordances: [cross_contacts, multi_reachability, explorability, pointers]
+          path: features/information-access/recommendation/r4-item-to-item.md
+        - code: R5
+          name: User-to-user
+          affordances: [cross_contacts, multi_reachability, explorability, pointers]
+          path: features/information-access/recommendation/r5-user-to-user.md
+      search:
+        - code: S1
+          name: Search engine
+          affordances: [accessibility, pointers]
+          path: features/information-access/search/s1-search-engine.md
+        - code: S2
+          name: Auto-completion
+          affordances: [accessibility, explorability, pointers, cross_contacts]
+          path: features/information-access/search/s2-auto-completion.md
+      browsing:
+        - code: B1
+          name: Hyperlinks
+          affordances: [accessibility, multi_reachability, explorability]
+          path: features/information-access/browsing/b1-hyperlinks.md
+        - code: B2
+          name: Breadcrumb trails
+          affordances: [accessibility, slowability, pointers]
+          path: features/information-access/browsing/b2-breadcrumb-trails.md
+        - code: B3
+          name: Collections
+          affordances: [cross_contacts, slowability, pointers]
+          path: features/information-access/browsing/b3-collections.md
+        - code: B4
+          name: User profiles
+          affordances: [cross_contacts, slowability, exposure, pointers]
+          path: features/information-access/browsing/b4-user-profiles.md
