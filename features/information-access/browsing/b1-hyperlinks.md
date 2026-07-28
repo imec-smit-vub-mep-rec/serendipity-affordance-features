@@ -18,11 +18,8 @@ Hyperlinks create multiple routes through the environment. They let users leave 
 
 ## Examples
 
-![B1 hyperlink-related metadata example](../../../assets/snippets/B1-Core-metadata-01.png)
+![B1 hyperlink-related metadata example](../../../assets/snippets/IMDB-C1-Core-metadata-U1-Metadata-B1-Hyperlinks.png)
 
-![B1 hyperlink-related metadata second example](../../../assets/snippets/B1-Core-metadata-02.png)
+![B1 hyperlink-related metadata second example](../../../assets/snippets/LibraryThing-C1-Core-metadata-U1-Metadata-B1-Hyperlinks-02.png)
 
-Related snippet filename:
-
-- `C1-Core-metadata-01.png`
 

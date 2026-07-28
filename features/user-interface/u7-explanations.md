@@ -17,7 +17,7 @@ Explanations can point users toward a relationship they did not previously see. 
 
 ## Examples
 
-![U7 explanations example](../../assets/snippets/U7-Explanations-01.png)
+![U7 explanations example](../../assets/snippets/LibraryThing-R2-Non-personalized-recommendations-C1-Core-metadata-U1-Metadata-U6-Headers-B1-Hyperlinks.png)
 
-![U7 explanations second example](../../assets/snippets/U7-Explanations-02.png)
+![U7 explanations second example](../../assets/snippets/LibraryThing-R1-Personalized-recommendations-U7-Explanations.png)
 

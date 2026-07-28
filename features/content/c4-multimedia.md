@@ -17,9 +17,9 @@ Multimedia gives users additional sensory and semantic material to compare. It c
 
 ## Examples
 
-![C4 multimedia example](../../assets/snippets/C4-Multimedia-01.png)
+![C4 multimedia example](../../assets/snippets/LibraryThing-R1-Personalized-recommendations-C4-Multimedia-U3-Multimedia-U5-Presentation-structure-02.png)
 
-![C4 multimedia second example](../../assets/snippets/C4-Multimedia-02.png)
+![C4 multimedia second example](../../assets/snippets/LibraryThing-R1-Personalized-recommendations-C4-Multimedia-U3-Multimedia-U5-Presentation-structure-03.png)
 
-![C4 multimedia third example](../../assets/snippets/C4-Multimedia-03.png)
+![C4 multimedia third example](../../assets/snippets/IMDB-C4-Multimedia-U3-Multimedia-C1-Core-metadata-C3-User-generated-content-R2-Non-personalized-recommendations-U8-Emphasis.png)
 

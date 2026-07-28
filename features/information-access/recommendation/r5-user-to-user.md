@@ -18,7 +18,7 @@ Other people create routes into unfamiliar parts of the catalogue. Their ratings
 
 ## Examples
 
-![R5 user-to-user recommendation example](../../../assets/snippets/R5-User-to-user-01.png)
+![R5 user-to-user recommendation example](../../../assets/snippets/LibraryThing-R5-User-to-user-recommendations-02.png)
 
-![R5 user-to-user recommendation second example](../../../assets/snippets/R5-User-to-user-02.png)
+![R5 user-to-user recommendation second example](../../../assets/snippets/LibraryThing-R5-User-to-user-recommendations.png)
 

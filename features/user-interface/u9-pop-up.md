@@ -17,11 +17,8 @@ A pop-up can slow users down, increase exposure to a specific item or cue, and c
 
 ## Examples
 
-![U9 pop-up example](../../assets/snippets/U9-Pop-up-01.png)
+![U9 pop-up example](../../assets/snippets/GoodReads-U9-Pop-up-C3-User-generated-content-02.png)
 
-![U9 pop-up second example](../../assets/snippets/U9-Pop-up-02.png)
+![U9 pop-up second example](../../assets/snippets/LibraryThing-U9-Pop-up-C1-Core-metadata-U1-Metadata-C3-User-generated-content-02.png)
 
-Related snippet filename preserved from the archive:
-
-- `UX-Popup.png`
 

@@ -17,11 +17,6 @@ Richer item metadata makes a catalogue more legible and varied. It gives users m
 
 ## Examples
 
-![C1 core metadata example](../../assets/snippets/C1-Core-metadata-01.png)
+![C1 core metadata example](../../assets/snippets/IMDB-C1-Core-metadata-U1-Metadata-B1-Hyperlinks.png)
 
-Related snippet filenames preserved from the archive:
-
-- `B1-Core-metadata-01.png`
-- `B1-Core-metadata-02.png`
-- `U1-Core-metadata-01.png`
 

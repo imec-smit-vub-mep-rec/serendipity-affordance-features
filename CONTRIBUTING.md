@@ -5,7 +5,7 @@ Contributions should make the repository easier to use as a shared research and 
 ## Add A New Example
 
 1. Add the screenshot or other artifact to `assets/snippets/`.
-2. Use a descriptive filename with the feature code when possible, for example `U6-Headers-04.png`.
+2. Name the file with the source followed by all relevant feature tags and feature names, for example `IMDB-U6-Headers-U8-Emphasis.png`.
 3. Add the example to the relevant feature page under `Examples`.
 4. Include the source service, capture date, and a short note about what the feature demonstrates when known.
 

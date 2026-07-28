@@ -17,9 +17,9 @@ Headers act as pointers. They can help users interpret why a group of items appe
 
 ## Examples
 
-![U6 headers example](../../assets/snippets/U6-Headers-01.png)
+![U6 headers example](../../assets/snippets/IMDB-R3-Curated-recommendations-U3-Multimedia-C4-Multimedia-U5-Presentation-structure-U6-Headers-U8-Emphasis.png)
 
-![U6 headers second example](../../assets/snippets/U6-Headers-02.png)
+![U6 headers second example](../../assets/snippets/IMDB-B3-Collections-U3-Multimedia-C4-Multimedia-U5-Presentation-structure-U6-Headers-U8-Emphasis.png)
 
-![U6 headers third example](../../assets/snippets/U6-Headers-03.png)
+![U6 headers third example](../../assets/snippets/IMDB-R4-Item-to-item-recommendations-U6-Headers-U3-Multimedia-C4-Multimedia-C3-User-generated-content.png)
 

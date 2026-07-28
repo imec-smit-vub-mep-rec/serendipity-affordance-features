@@ -18,11 +18,8 @@ Breadcrumbs provide a clear path back to broader categories and can slow navigat
 
 ## Examples
 
-![B2 breadcrumb trail example](../../../assets/snippets/B4-Breadcrumb-trails-01.png)
+![B2 breadcrumb trail example](../../../assets/snippets/Amazon-B2-Breadcrumb-trails-B1-Hyperlinks-01.png)
 
-![B2 breadcrumb trail second example](../../../assets/snippets/B4-Breadcrumb-trails-02.png)
+![B2 breadcrumb trail second example](../../../assets/snippets/Amazon-B2-Breadcrumb-trails-B1-Hyperlinks-02.png)
 
-Related legacy snippet filename:
-
-- `B2-Controlled-vocabulary-01.png`
 

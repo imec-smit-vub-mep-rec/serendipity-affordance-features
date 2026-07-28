@@ -1,7 +1,6 @@
 source:
   title: "Serendipity in Recommender Systems Beyond the Algorithm: A Feature Repository and Experimental Design"
   url: "https://pure.itu.dk/ws/portalfiles/portal/98207011/paper4.pdf"
-  basis: "Section 3 and Table 2"
 
 sub_affordances:
   diversity: "Multiple potentials, for example diverse or heterogeneous content."

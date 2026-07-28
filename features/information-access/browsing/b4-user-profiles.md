@@ -18,7 +18,7 @@ Profiles expose other people's traces and can create cross-contacts between user
 
 ## Examples
 
-![B4 user profile example](../../../assets/snippets/B6-User-profiles-01.png)
+![B4 user profile example](../../../assets/snippets/LibraryThing-B4-User-profiles-C1-Core-metadata-U1-Metadata-B1-Hyperlinks-02.png)
 
-![B4 user profile second example](../../../assets/snippets/B6-User-profiles-02.png)
+![B4 user profile second example](../../../assets/snippets/LibraryThing-B4-User-profiles-C1-Core-metadata-U1-Metadata-B1-Hyperlinks.png)
 

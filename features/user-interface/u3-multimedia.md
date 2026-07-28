@@ -17,9 +17,9 @@ Media can create visual or auditory contrast in otherwise repetitive recommendat
 
 ## Examples
 
-![U3 multimedia example](../../assets/snippets/U3-Multimedia-01.png)
+![U3 multimedia example](../../assets/snippets/LibraryThing-R1-Personalized-recommendations-C4-Multimedia-U3-Multimedia-U5-Presentation-structure-02.png)
 
-![U3 multimedia second example](../../assets/snippets/U3-Multimedia-02.png)
+![U3 multimedia second example](../../assets/snippets/LibraryThing-R1-Personalized-recommendations-C4-Multimedia-U3-Multimedia-U5-Presentation-structure-03.png)
 
-![U3 multimedia third example](../../assets/snippets/U3-Multimedia-03.png)
+![U3 multimedia third example](../../assets/snippets/IMDB-C4-Multimedia-U3-Multimedia-C1-Core-metadata-C3-User-generated-content-R2-Non-personalized-recommendations-U8-Emphasis.png)
 

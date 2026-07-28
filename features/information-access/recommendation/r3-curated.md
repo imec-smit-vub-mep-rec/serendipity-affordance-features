@@ -18,7 +18,7 @@ Curated lists can deliberately bring items into contact across themes, genres, o
 
 ## Examples
 
-![R3 curated recommendation example](../../../assets/snippets/R3-Curated-01.png)
+![R3 curated recommendation example](../../../assets/snippets/LibraryThing-R3-Curated-recommendations-C3-User-generated-content-U6-Headers.png)
 
-![R3 curated recommendation second example](../../../assets/snippets/R3-Curated-02.png)
+![R3 curated recommendation second example](../../../assets/snippets/IMDB-R3-Curated-recommendations-U3-Multimedia-C4-Multimedia-U5-Presentation-structure-U6-Headers-U8-Emphasis.png)
 

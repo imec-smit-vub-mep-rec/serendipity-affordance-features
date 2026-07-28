@@ -17,9 +17,6 @@ Controlled vocabularies can widen the apparent diversity of a catalogue by expos
 
 ## Examples
 
-![C2 controlled vocabulary example](../../assets/snippets/C2-Controlled-vocabulary-01.png)
+![C2 controlled vocabulary example](../../assets/snippets/LibraryThing-C2-Controlled-vocabulary-B2-Breadcrumb-trails-B1-Hyperlinks.png)
 
-Related legacy snippet filename:
-
-- `B2-Controlled-vocabulary-01.png`
 

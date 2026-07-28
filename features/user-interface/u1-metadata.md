@@ -17,11 +17,6 @@ Visible metadata can slow users down just enough to inspect an item rather than 
 
 ## Examples
 
-![U1 metadata example](../../assets/snippets/U1-Core-metadata-01.png)
+![U1 metadata example](../../assets/snippets/IMDB-C1-Core-metadata-U1-Metadata-B1-Hyperlinks.png)
 
-Related snippet filenames preserved from the archive:
-
-- `C1-Core-metadata-01.png`
-- `B1-Core-metadata-01.png`
-- `B1-Core-metadata-02.png`
 

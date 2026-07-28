@@ -17,5 +17,5 @@ Global navigation makes sections of the environment accessible and repeatedly vi
 
 ## Examples
 
-![U4 global navigation example](../../assets/snippets/U4-Global-navigation-01.png)
+![U4 global navigation example](../../assets/snippets/LibraryThing-U4-Global-navigation-S1-Search-engine-B3-Collections.png)
 

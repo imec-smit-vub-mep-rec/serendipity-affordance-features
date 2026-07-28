@@ -18,7 +18,7 @@ Collections bring items into contact and give users a reason to inspect them tog
 
 ## Examples
 
-![B3 collection example](../../../assets/snippets/B5-Curated-collections-01.png)
+![B3 collection example](../../../assets/snippets/IMDB-R3-Curated-recommendations-U3-Multimedia-C4-Multimedia-U5-Presentation-structure-U6-Headers-U8-Emphasis.png)
 
-![B3 collection second example](../../../assets/snippets/B5-Curated-collections-02.png)
+![B3 collection second example](../../../assets/snippets/IMDB-B3-Collections-U3-Multimedia-C4-Multimedia-U5-Presentation-structure-U6-Headers-U8-Emphasis.png)
 

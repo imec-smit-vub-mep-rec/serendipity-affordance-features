@@ -15,11 +15,12 @@ The feature pages are intended to be practical research objects: each page gives
 ```text
 .
 |-- assets/
-|   `-- snippets/                 # Screenshot snippets from the initial example archive
+|   `-- snippets/                 # Screenshot snippets named by source and feature mapping
 |-- data/
 |   `-- taxonomy.yml              # Machine-readable version of the feature taxonomy
-|-- examples/
-|   `-- snippets.md               # Human-readable index of the provided snippets
+|-- docs/
+|   |-- FEATURE_TEMPLATE.md
+|   `-- REPOSITORY_PLAN.md
 |-- features/
 |   |-- content/
 |   |-- user-interface/
@@ -77,7 +78,7 @@ The feature pages are intended to be practical research objects: each page gives
 
 - Use the feature pages to identify candidate design manipulations for a recommender-system study.
 - Use `data/taxonomy.yml` when you need a structured source for scripts, website generation, or cross-repository reuse.
-- Add example screenshots to `assets/snippets/` and list them on the relevant feature page.
+- Add example screenshots to `assets/snippets/`, using the source-plus-feature naming pattern, and list them on the relevant feature page.
 - Keep examples grounded in observable interface features, not inferred algorithmic behavior unless the source explicitly documents it.
 
 ## Source

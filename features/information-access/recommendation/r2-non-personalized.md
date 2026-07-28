@@ -18,5 +18,5 @@ Because the list is not constrained by the user's profile, it may create cross-c
 
 ## Examples
 
-![R2 non-personalized recommendation example](../../../assets/snippets/R2-Non-personalized-01.png)
+![R2 non-personalized recommendation example](../../../assets/snippets/LibraryThing-R2-Non-personalized-recommendations-C1-Core-metadata-U1-Metadata-U6-Headers-B1-Hyperlinks.png)
 

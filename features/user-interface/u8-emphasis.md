@@ -17,5 +17,5 @@ Emphasis can increase exposure to selected items and create contrast against sur
 
 ## Examples
 
-![U8 emphasis example](../../assets/snippets/U8-Emphasis-01.png)
+![U8 emphasis example](../../assets/snippets/IMDB-U8-Emphasis-C1-Core-metadata-U1-Metadata.png)
 

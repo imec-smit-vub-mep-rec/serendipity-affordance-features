@@ -18,9 +18,9 @@ Search makes specific spots accessible, but search results can also point users 
 
 ## Examples
 
-![S1 search engine example](../../../assets/snippets/S1-Search-engine-01.png)
+![S1 search engine example](../../../assets/snippets/LibraryThing-S1-Search-engine-02.png)
 
-![S1 search engine second example](../../../assets/snippets/S1-Search-engine-02.png)
+![S1 search engine second example](../../../assets/snippets/IMDB-S1-Search-engine.png)
 
-![S1 search engine third example](../../../assets/snippets/S1-Search-engine-03.png)
+![S1 search engine third example](../../../assets/snippets/Amazon-S1-Search-engine.png)
 

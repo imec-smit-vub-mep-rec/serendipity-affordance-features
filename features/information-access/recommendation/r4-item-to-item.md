@@ -18,9 +18,9 @@ Item-to-item routes create local paths through a catalogue. They can connect ite
 
 ## Examples
 
-![R4 item-to-item recommendation example](../../../assets/snippets/R4-Item-to-item-01.png)
+![R4 item-to-item recommendation example](../../../assets/snippets/IMDB-R4-Item-to-item-recommendations-U6-Headers-U3-Multimedia-C4-Multimedia-C3-User-generated-content.png)
 
-![R4 item-to-item recommendation second example](../../../assets/snippets/R4-Item-to-item-02.png)
+![R4 item-to-item recommendation second example](../../../assets/snippets/LibraryThing-R1-Personalized-recommendations-C4-Multimedia-U3-Multimedia-U5-Presentation-structure-03.png)
 
-![R4 item-to-item recommendation third example](../../../assets/snippets/R4-Item-to-item-03.png)
+![R4 item-to-item recommendation third example](../../../assets/snippets/IMDB-R4-Item-to-item-recommendations-U6-Headers-U3-Multimedia-C4-Multimedia-C3-User-generated-content.png)
 

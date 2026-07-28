@@ -17,15 +17,8 @@ User contributions add perspectives that the official catalogue may not contain.
 
 ## Examples
 
-![C3 user-generated content example](../../assets/snippets/C3-User-generated-content-01.png)
+![C3 user-generated content example](../../assets/snippets/LibraryThing-C3-User-generated-content-U2-User-generated-content-B1-Hyperlinks-02.png)
 
-![C3 user-generated content second example](../../assets/snippets/C3-User-generated-content-02.png)
+![C3 user-generated content second example](../../assets/snippets/LibraryThing-C3-User-generated-content-U2-User-generated-content.png)
 
-Related snippet filenames preserved from the archive:
-
-- `B3-Tags-01.png`
-- `B3-Tags-02.png`
-- `B3-Tags-03.png`
-- `U2-User-generated-content-01.png`
-- `U2-User-generated-content-02.png`
 

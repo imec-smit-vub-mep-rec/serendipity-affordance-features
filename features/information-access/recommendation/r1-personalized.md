@@ -18,7 +18,7 @@ Personalization can make potentially interesting items more accessible and can p
 
 ## Examples
 
-![R1 personalized recommendation example](../../../assets/snippets/R1-Personalized-01.png)
+![R1 personalized recommendation example](../../../assets/snippets/LibraryThing-R1-Personalized-recommendations-C4-Multimedia-U3-Multimedia-U5-Presentation-structure-02.png)
 
-![R1 personalized recommendation second example](../../../assets/snippets/R1-Personalized-02.png)
+![R1 personalized recommendation second example](../../../assets/snippets/LibraryThing-R1-Personalized-recommendations-U5-Presentation-structure-U7-Explanations-C1-Core-metadata-U1-Metadata-U6-Headers-B1-Hyperlinks.png)
 

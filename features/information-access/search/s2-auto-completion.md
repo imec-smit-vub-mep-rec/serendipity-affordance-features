@@ -18,5 +18,5 @@ Suggestions can point users toward possible searches, categories, or items befor
 
 ## Examples
 
-![S2 auto-completion example](../../../assets/snippets/S2-Auto-completion-01.png)
+![S2 auto-completion example](../../../assets/snippets/Amazon-S1-Search-engine-S2-Auto-completion.png)
 
