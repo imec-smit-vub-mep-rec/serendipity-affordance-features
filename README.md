@@ -45,4 +45,4 @@ The repository also contains example screenshots from recommender system interfa
 - Use [data/taxonomy.yml](data/taxonomy.yml) when you need a structured source for scripts, website generation, or cross-repository reuse.
 - Add example screenshots to `assets/snippets/`, using the source-plus-feature naming pattern, and list them on the relevant feature and affordance pages.
 
-This repository is intended as a living repository: we welcome contributions of new examples and/or features. Please see [CONTRIBUTING.md](our contribution guidelines).
+This repository is intended as a living repository: we welcome contributions of new examples and/or features. Please see [our contribution guidelines](CONTRIBUTING.md).
