@@ -2,72 +2,31 @@
 
 This repository accompanies the paper [Serendipity in Recommender Systems Beyond the Algorithm: A Feature Repository and Experimental Design](https://pure.itu.dk/ws/portalfiles/portal/98207011/paper4.pdf).
 
-It catalogs affordance features that may help recommender systems support serendipitous encounters. The repository follows the paper's categorization, identifying three main categories:
+It catalogs affordance features that may help recommender systems support serendipitous encounters. The repository can be browsed in two complementary ways:
 
-- [Content](features/content/): features relating to the content, e.g., core metadata, controlled vocabularies, user-generated content, and multimedia.
-- [User interface](features/user-interface/): visible or audible presentation choices that influence what users notice, inspect, and follow, e.g., global navigation, presentation structure, headers and explanations. 
-- [Information access](features/information-access/): recommendation, search, and browsing mechanisms that shape how users reach items, e.g., search engines, auto-completion, hyperlinks and breadcrumbs. 
+- [Browse by feature](features/FEATURES.md): start from content, user-interface, or information-access features and see which serendipity affordances they may stimulate.
+- [Browse by serendipity affordance](affordances/AFFORDANCES.md): start from a serendipity affordance and see which features and examples may stimulate it.
 
-Each folder provides detailed information on the features, detailing what category they belong to, what affordance of serendipity they allow, an explanation of why they may support serendipity, some design considerations and relevant examples. 
+The repository also contains example screenshots from recommender-system interfaces. Snippet filenames encode the place where the example was found and the feature tags visible in the example, such as `IMDB-C1-Core-metadata-U1-Metadata-B1-Hyperlinks.png`.
 
-## Index
-
-### Content
-
-| Code | Feature | Page |
-| --- | --- | --- |
-| C1 | Core metadata | [features/content/c1-core-metadata.md](features/content/c1-core-metadata.md) |
-| C2 | Controlled vocabulary | [features/content/c2-controlled-vocabulary.md](features/content/c2-controlled-vocabulary.md) |
-| C3 | User-generated content | [features/content/c3-user-generated-content.md](features/content/c3-user-generated-content.md) |
-| C4 | Multimedia | [features/content/c4-multimedia.md](features/content/c4-multimedia.md) |
-
-### User Interface
-
-| Code | Feature | Page |
-| --- | --- | --- |
-| U1 | Metadata | [features/user-interface/u1-metadata.md](features/user-interface/u1-metadata.md) |
-| U2 | User-generated content | [features/user-interface/u2-user-generated-content.md](features/user-interface/u2-user-generated-content.md) |
-| U3 | Multimedia | [features/user-interface/u3-multimedia.md](features/user-interface/u3-multimedia.md) |
-| U4 | Global navigation | [features/user-interface/u4-global-navigation.md](features/user-interface/u4-global-navigation.md) |
-| U5 | Presentation structure | [features/user-interface/u5-presentation-structure.md](features/user-interface/u5-presentation-structure.md) |
-| U6 | Headers | [features/user-interface/u6-headers.md](features/user-interface/u6-headers.md) |
-| U7 | Explanations | [features/user-interface/u7-explanations.md](features/user-interface/u7-explanations.md) |
-| U8 | Emphasis | [features/user-interface/u8-emphasis.md](features/user-interface/u8-emphasis.md) |
-| U9 | Pop-up | [features/user-interface/u9-pop-up.md](features/user-interface/u9-pop-up.md) |
-
-### Information Access
-
-| Code | Feature | Page |
-| --- | --- | --- |
-| R1 | Personalized recommendation | [features/information-access/recommendation/r1-personalized.md](features/information-access/recommendation/r1-personalized.md) |
-| R2 | Non-personalized recommendation | [features/information-access/recommendation/r2-non-personalized.md](features/information-access/recommendation/r2-non-personalized.md) |
-| R3 | Curated recommendation | [features/information-access/recommendation/r3-curated.md](features/information-access/recommendation/r3-curated.md) |
-| R4 | Item-to-item recommendation | [features/information-access/recommendation/r4-item-to-item.md](features/information-access/recommendation/r4-item-to-item.md) |
-| R5 | User-to-user recommendation | [features/information-access/recommendation/r5-user-to-user.md](features/information-access/recommendation/r5-user-to-user.md) |
-| S1 | Search engine | [features/information-access/search/s1-search-engine.md](features/information-access/search/s1-search-engine.md) |
-| S2 | Auto-completion | [features/information-access/search/s2-auto-completion.md](features/information-access/search/s2-auto-completion.md) |
-| B1 | Hyperlinks | [features/information-access/browsing/b1-hyperlinks.md](features/information-access/browsing/b1-hyperlinks.md) |
-| B2 | Breadcrumb trails | [features/information-access/browsing/b2-breadcrumb-trails.md](features/information-access/browsing/b2-breadcrumb-trails.md) |
-| B3 | Collections | [features/information-access/browsing/b3-collections.md](features/information-access/browsing/b3-collections.md) |
-| B4 | User profiles | [features/information-access/browsing/b4-user-profiles.md](features/information-access/browsing/b4-user-profiles.md) |
-
-
-## How To Use This Repository
-
-- Use the feature pages to identify candidate design manipulations for a recommender system study.
-- Use `data/taxonomy.yml` when you need a structured source for scripts, website generation, or cross-repository reuse.
-- Add example screenshots to `assets/snippets/`, using the source-plus-feature naming pattern, and list them on the relevant feature page.
-- Keep examples grounded in observable interface features, not inferred algorithmic behavior unless the source explicitly documents it.
-
-## Repository Map
+## Repository Structure
 
 ```text
 .
+|-- affordances/                  # Reverse browse tree by serendipity affordance
+|   |-- AFFORDANCES.md
+|   |-- diversifiability/
+|   |-- sensoriability/
+|   `-- traversability/
 |-- assets/
 |   `-- snippets/                 # Screenshot snippets named by source and feature mapping
 |-- data/
-|   `-- taxonomy.yml              # Machine-readable version of the feature taxonomy
-|-- features/
+|   `-- taxonomy.yml              # Machine-readable version of the taxonomy
+|-- docs/
+|   |-- FEATURE_TEMPLATE.md
+|   `-- REPOSITORY_PLAN.md
+|-- features/                     # Browse tree by feature category
+|   |-- FEATURES.md
 |   |-- content/
 |   |-- user-interface/
 |   `-- information-access/
@@ -78,3 +37,16 @@ Each folder provides detailed information on the features, detailing what catego
 |-- LICENSE
 `-- README.md
 ```
+
+## How To Use This Repository
+
+- Use [features/FEATURES.md](features/FEATURES.md) to identify concrete design features for analysis or experimental manipulation.
+- Use [affordances/AFFORDANCES.md](affordances/AFFORDANCES.md) to reason from a desired serendipity affordance back to feature candidates.
+- Use [data/taxonomy.yml](data/taxonomy.yml) when you need a structured source for scripts, website generation, or cross-repository reuse.
+- Add example screenshots to `assets/snippets/`, using the source-plus-feature naming pattern, and list them on the relevant feature and affordance pages.
+
+## Scope
+
+The taxonomy follows the paper's three feature categories: content, user interface, and information access. The affordance browse tree follows the paper's serendipity sub-affordance structure: diversifiability, traversability, and sensoriability.
+
+This is a living repository: examples should be grounded in observable interface evidence, documented system behavior, or clearly marked inference.
