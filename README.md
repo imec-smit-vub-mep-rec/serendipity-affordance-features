@@ -5,9 +5,9 @@ This repository accompanies the paper [Serendipity in Recommender Systems Beyond
 It catalogs affordance features that may help recommender systems support serendipitous encounters. The repository can be browsed in two complementary ways:
 
 - [Browse by feature](features/FEATURES.md): start from content, user-interface, or information-access features and see which serendipity affordances they may stimulate.
-- [Browse by serendipity affordance](affordances/AFFORDANCES.md): start from a serendipity affordance and see which features and examples may stimulate it.
+- [Browse by serendipity affordance](affordances/AFFORDANCES.md): start from a serendipity affordance and see which features may stimulate it.
 
-The repository also contains example screenshots from recommender-system interfaces. Snippet filenames encode the place where the example was found and the feature tags visible in the example, such as `IMDB-C1-Core-metadata-U1-Metadata-B1-Hyperlinks.png`.
+The repository also contains example screenshots from recommender system interfaces. Snippet filenames encode the place where the example was found and the feature tags visible in the example, such as `IMDB-C1-Core-metadata-U1-Metadata-B1-Hyperlinks.png`.
 
 ## Repository Structure
 
@@ -45,8 +45,4 @@ The repository also contains example screenshots from recommender-system interfa
 - Use [data/taxonomy.yml](data/taxonomy.yml) when you need a structured source for scripts, website generation, or cross-repository reuse.
 - Add example screenshots to `assets/snippets/`, using the source-plus-feature naming pattern, and list them on the relevant feature and affordance pages.
 
-## Scope
-
-The taxonomy follows the paper's three feature categories: content, user interface, and information access. The affordance browse tree follows the paper's serendipity sub-affordance structure: diversifiability, traversability, and sensoriability.
-
-This is a living repository: examples should be grounded in observable interface evidence, documented system behavior, or clearly marked inference.
+This repository is intended as a living repository: we welcome contributions of new examples and/or features. Please see [CONTRIBUTING.md](our contribution guidelines).

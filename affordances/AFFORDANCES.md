@@ -1,8 +1,8 @@
 # Browse By Serendipity Affordance
 
-This tree reverses the feature repository: instead of starting from content, user-interface, or information-access features, it starts from the serendipity affordances that those features may stimulate.
+This tree reverses the feature repository presented in the paper: instead of starting from content, user-interface, or information-access features, it starts from the serendipity affordances that those features may stimulate.
 
-The grouping follows the paper's sub-affordance structure: diversifiability, traversability, and sensoriability.
+The grouping follows the paper's sub-affordance structure as proposed by [https://doi.org/10.1108/JD-07-2016-0097](Bj\"orneborn 2017): diversifiability, traversability, and sensoriability.
 
 ## Diversifiability
 
@@ -25,4 +25,4 @@ The grouping follows the paper's sub-affordance structure: diversifiability, tra
 
 ## How To Read These Pages
 
-Each affordance page includes a definition, a short interpretation for repository use, a table of mapped features, and links to example snippets already used by the feature pages.
+Each affordance page includes a definition, a short interpretation for repository use, a table of mapped features, and links to examples from online platforms.
